@@ -1,0 +1,218 @@
+/*------ CSS Reset -   -----*/
+
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+
+}
+
+/* styling */
+
+body {
+    width: 100%;
+    font-family: 'helvetica', sans serif;
+    margin: auto;
+    background-color: #white;
+    color: #1B1A17;
+}
+
+
+p, blockquote {
+    width: 75%;
+    max-width: 700px;
+    margin: auto;
+}
+
+.pentagram {
+	text-align:center;
+	padding-right: 10em;
+}
+
+.the-public {
+    background: #71F53B;
+    font-size:100%;
+    padding: 1em;
+}
+
+.about-section {
+	text-align:left;
+	padding-right: 25em;
+}
+
+.about{
+	text-align: left;
+	padding-left: 2em;
+}
+
+.brand-identity{
+	text-align: left;
+	
+}
+
+nav {
+    width: 100%;
+}
+
+/* NAV */
+
+
+nav { 
+	width: 100%;
+    padding: 1.5em 0;
+    margin-bottom: 4em;
+    background: #white;
+}
+
+nav ul {
+    width: 100%;
+    margin: none;
+    font-family: 'Helvetica', sans-serif;
+    font-size: .75em;
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+nav ul li { 
+    display: inline;
+    margin: 20px;
+	
+}
+nav a{
+	color:#000000;
+}
+
+nav a:hover {
+    border-bottom: none;
+    color: #FBF33B;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+    font-family:'helvetica', sans-serif;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+h2 {
+    font-size: 4em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    letter-spacing: 0.02em;
+	font-family: helvetica
+	
+}
+
+h3
+{
+	text-align: center;
+	font-size:2em;
+}
+
+.quotation-c 
+{ 
+padding-left: 35em;
+}  
+
+.dafunk
+{
+	padding-right: 200px;
+}
+
+.apple
+{
+	padding-right: 10px;
+	
+}
+
+.taxicab
+{padding-left: 60em;
+
+}
+
+.50yr
+{padding-left: 50em;
+}
+
+p {
+    font-size: 120%;
+    line-height: 1.5em;
+	margin-bottom: 0.6em;
+	
+}
+
+li {
+    font-size: 120%;
+    line-height: 1.5em;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+blockquote {
+    font-size: 150%;
+    padding: 1em;
+}
+
+blockquote p {
+    font-style: bold ;
+    border-left: 10px solid #F26822;
+    padding-left: 1em;
+    margin-bottom: .4em;
+}
+
+cite {
+    font-size: 75%;
+    padding: 2em;
+    margin-left: 3em;
+}
+
+banner{
+	width: 100%;
+	display: block;
+	
+	
+}
+banner > banner-image {
+	width: 100%;
+	display: block;
+	
+}
+
+.50-years{
+	text-align:left;
+	
+}
+
+.conclusion{
+	text-align: center;
+}
+
+.bibliography {
+    background:#FBF33B;
+    font-size: 90%;
+    padding: 1em;
+	text-align:center;
+	color:#000000;
+
+
+}
+
+table{
+	margin:auto;
+	display:table;
+	width: 100%;
+font-family: helvetica
+	
+}
+
+td{
+	padding:0.6em;
+	line-height:1.2em;
+	margin-bottom:0.5em;
+}
+
+
+
