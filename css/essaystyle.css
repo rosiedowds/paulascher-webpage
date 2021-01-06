@@ -10,7 +10,7 @@
 
 /* styling */
 
-body {
+main {
     width: 100%;
     font-family: 'helvetica', sans serif;
     margin: auto;
@@ -37,7 +37,7 @@ p, blockquote {
 }
 
 .about-section {
-	text-align:left;
+	text-align:center;
 	padding-right: 25em;
 }
 
@@ -47,7 +47,7 @@ p, blockquote {
 }
 
 .brand-identity{
-	text-align: left;
+	text-align: center;
 	
 }
 
