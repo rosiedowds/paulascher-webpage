@@ -16,6 +16,9 @@ main {
     margin: auto;
     background-color: #white;
     color: #1B1A17;
+	font-family: aktiv-grotesk, sans-serif;
+	font-style: normal;
+	font-weight: 200;
 }
 
 html, body {
@@ -28,6 +31,7 @@ p, blockquote {
     width: 60%;
     max-width: 500px;
     margin: auto;
+	font-family: 
 }
 
 .pentagram {
@@ -47,8 +51,8 @@ p, blockquote {
 }
 
 .about{
-	text-align: left;
-	padding-left: 2em;
+	text-align: center;
+	
 }
 
 .brand-identity{
@@ -75,7 +79,7 @@ nav ul {
     margin: none;
     font-family: 'Helvetica', sans-serif;
     font-size: .75em;
-    text-align: right;
+    text-align: center;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
@@ -98,7 +102,7 @@ h1, h2, h3 {
     font-weight: bold;
     font-family:'helvetica', sans-serif;
     text-transform: uppercase;
-    text-align: right;
+    text-align: center;
 }
 
 h2 {
@@ -108,6 +112,7 @@ h2 {
     margin-top: 1em;
     letter-spacing: 0.02em;
 	font-family: helvetica
+	
 	
 }
 
@@ -124,7 +129,13 @@ padding-left: 35em;
 
 .dafunk
 {
-	padding-right: 200px;
+	display: block;
+	margin: 20px auto 20px auto;
+	height: auto;
+	max-width: 100%;
+	padding: 7px;
+}
+
 }
 
 .apple
@@ -139,7 +150,11 @@ padding-left: 35em;
 }
 
 .50yr
-{padding-left: 50em;
+{	display: block;
+	margin: 20px auto 20px auto;
+	height: auto;
+	max-width: 100%;
+	padding: 7px;
 }
 
 p {
