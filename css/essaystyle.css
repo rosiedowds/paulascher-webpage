@@ -18,6 +18,11 @@ main {
     color: #1B1A17;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 
 p, blockquote {
     width: 60%;
